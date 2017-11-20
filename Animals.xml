@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+	<animal>
+		<category>Dog</category>
+		<family>Mammal</family>
+		<name>Trigger</name>
+		<weight>20</weight> 	<!-- in kg -->
+		<height>70</height> 	<!-- in cm -->
+		<movement>Runs</movement>
+	</animal>
+	<animal>
+		<category>Cat</category>
+		<family>Mammal</family>
+		<name>Jumpy</name>
+		<weight>5</weight> 	
+		<height>40</height> 	
+		<movement>Walks</movement>
+	</animal>
+	<animal>
+		<category>Pigeon</category>
+		<family>Bird</family>
+		<name>Beaks</name>
+		<weight>4</weight>
+		<height>50</height>
+		<movement>Flies</movement>
+	</animal>
+	<animal>
+		<category>Spider</category>
+		<family>Arachnid</family>
+		<name>Legsy</name>
+		<weight>0.05</weight> 
+		<height>2</height>
+		<movement>Crawls</movement>
+	</animal>
+	<animal>
+		<category>Bee</category>
+		<family>Bug</family>
+		<name>Stingy</name>
+		<weight>0.002</weight>
+		<height>0.5</height>
+		<movement>Flies</movement>
+	</animal>
+</animals>
